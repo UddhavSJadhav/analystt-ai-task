@@ -1,0 +1,16 @@
+{
+  "name": "@analysst/ui",
+  "main": "./index.js",
+  "version": "0.0.0",
+  "description": "custom ui package",
+  "author": "Uddhav Jadhav <jadhavus.bmw@gmail.com>",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "snabbdom": "^3.5.1",
+    "snabbdom-jsx": "^0.4.2"
+  },
+  "exports": {
+    ".": "./index.js"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "web-app",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Uddhav Jadhav <jadhavus.bmw@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack serve",
+    "build": "webpack"
+  },
+  "dependencies": {
+    "@analysst/ui": "*"
+  },
+  "devDependencies": {
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1"
+  }
+}
