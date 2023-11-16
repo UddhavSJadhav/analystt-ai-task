@@ -1,6 +1,7 @@
 import { h } from "@analysst/ui";
 
 import Counter from "./Counter.js";
+// import Template from "./Template.js";
 
 export default function App() {
   const lifeCycle = {
